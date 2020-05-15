@@ -2213,7 +2213,7 @@
 					};
 					FA680F191B009B6B006FC484 = {
 						CreatedOnToolsVersion = 6.3.1;
-						DevelopmentTeam = SU5BA5HAQK;
+						DevelopmentTeam = GA7YEA7CCY;
 						LastSwiftMigration = 1100;
 						SystemCapabilities = {
 							com.apple.Wallet = {
@@ -2779,6 +2779,7 @@
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				DEFINES_MODULE = YES;
+				DEVELOPMENT_TEAM = GA7YEA7CCY;
 				ENABLE_BITCODE = YES;
 				FRAMEWORK_SEARCH_PATHS = "";
 				GCC_PREFIX_HEADER = App/PrefixHeader.pch;
@@ -2808,6 +2809,7 @@
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				DEFINES_MODULE = YES;
+				DEVELOPMENT_TEAM = GA7YEA7CCY;
 				ENABLE_BITCODE = YES;
 				FRAMEWORK_SEARCH_PATHS = "";
 				GCC_PREFIX_HEADER = App/PrefixHeader.pch;
